@@ -1,4 +1,4 @@
-[![Coverage Status][1]][2]
+[![Coverage Status?][1]][2]
 
 New Relic's official Koa framework instrumentation for use with the
 [Node agent](https://github.com/newrelic/node-newrelic). This module is a
