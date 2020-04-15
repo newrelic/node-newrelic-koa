@@ -15,6 +15,10 @@
   },
   "author": "New Relic Node.js agent team <nodejs@newrelic.com>",
   "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newrelic/node-newrelic-koa"
+  },
   "engines": {
     "node": ">=8.0.0"
   },

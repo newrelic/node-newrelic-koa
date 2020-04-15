@@ -22,6 +22,7 @@ require('@newrelic/koa')
 ### Supported routing modules
 
 - `koa-router`
+- `@koa/router`
 - `koa-route`
 
 For more information, please see the agent [installation guide][3], and
